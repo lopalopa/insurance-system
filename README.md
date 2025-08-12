@@ -54,8 +54,9 @@ Includes:
 ---
 
 ## 🖥 Live Demo
+Blog link: [https://phpconnectmysql.blogspot.com/2025/08/insurance-management-system-project-in.html ]
 
-Check out the demo: [Insert Demo URL here]
+Check out the demo: [[Youtube demo](https://youtu.be/X371TRw6WNw)]
 
 ---
 
