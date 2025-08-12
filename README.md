@@ -1,26 +1,87 @@
-Insurance Management System - Starter Repo
-==========================================
+# 🛡 Insurance Management System in PHP & MySQL
 
-Drop the `insurance-system` folder into your `htdocs` (XAMPP) or web root.
-Point your browser to: http://localhost/insurance-system/public/login.php
+A robust web-based Insurance Management System built with **PHP** and **MySQL** to manage customers, policies, and claims efficiently.  
+Ideal for **students** (final year projects, portfolios), **recruiters** (skill evaluation), and **businesses** (ready-to-use solution).
 
-Setup:
-1. Create the database and tables:
-   - Import `sql/create_db.sql` into MySQL (phpMyAdmin or CLI).
-2. Update DB credentials in `includes/db.php`.
-3. (Optional) Run `create_admin.php` once to create an admin user, or insert a user manually:
-   - Default admin credentials created by the script: admin@example.com / Admin@123
-4. Make sure `uploads/` is writable by the web server (for attachments).
+---
 
-What is included:
-- Basic auth (login / logout)
-- Customer CRUD (list/add/edit/delete)
-- Policy CRUD (list/add)
-- Claim list page (starter)
-- PDO with prepared statements, password_hash usage
-- Bootstrap 5 CDN for quick UI
+## 🚀 Features
 
-Security reminder:
-- Change DB credentials, use HTTPS in production.
-- Do not expose `create_admin.php` on a public server.
-- Improve input validation and add CSRF tokens for production.
+- Secure Admin & Customer Login  
+- Manage Customers (Add, Edit, Delete)  
+- Manage Insurance Policies  
+- Manage Claims and Requests  
+- Generate Reports and Analytics  
+- Responsive UI built with Bootstrap  
+- Database-driven with MySQL  
+
+---
+
+## 🛠 Technology Stack
+
+| Layer    | Technology         |
+| -------- | ------------------ |
+| Frontend | HTML, CSS, Bootstrap |
+| Backend  | PHP (Core PHP)       |
+| Database | MySQL (phpMyAdmin)   |
+| Server   | XAMPP/WAMP (Local) or cPanel Hosting |
+
+---
+
+## 📂 Demo Files Included
+
+This repository contains:  
+- Sample PHP files with basic structure  
+- Screenshots of the working system  
+- Project documentation  
+
+**Note:** The full working source code with database SQL file is **NOT included** here.
+
+---
+
+## 💰 Purchase Full Source Code
+
+Interested in the full source code?  
+Contact: **rashmipravamishra@gmail.com**  
+Payment Methods: UPI / PayPal / Bank Transfer  
+
+Includes:  
+- Complete PHP source code  
+- MySQL database export (.sql)  
+- Installation guide and documentation  
+- Lifetime support  
+
+---
+
+## 🖥 Live Demo
+
+Check out the demo: [Insert Demo URL here]
+
+---
+
+
+## 📸 Screenshots
+
+### Dashboard  
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+### Login Page  
+![Login Page](screenshots/loginadmin.png)
+
+---
+
+## ⚠ License & Usage
+
+This project is for educational and commercial use.  
+Redistribution or resale without permission is prohibited.
+
+---
+
+⭐ If you find this project useful, please star this repository!
+
+---
+
+## Contact
+
+For any queries, please email: your-email@example.com
+
