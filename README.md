@@ -65,8 +65,24 @@ Check out the demo: [Insert Demo URL here]
 ### Dashboard  
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
-### Login Page  
+### Loginadmin Page  
 ![Login Page](screenshots/loginadmin.png)
+### Loginuser Page  
+![Login Page](screenshots/loginuser.png)
+
+### Customer detail Page  
+![Login Page](screenshots/customerinf.png)
+
+### Dashboard Page  
+![Login Page](screenshots/dashboard1.png)
+
+
+### Register Page  
+![Login Page](screenshots/register.png)
+
+### Customer List Page  
+![Login Page](screenshots/customerlist.png)
+
 
 ---
 
@@ -83,5 +99,5 @@ Redistribution or resale without permission is prohibited.
 
 ## Contact
 
-For any queries, please email: your-email@example.com
+For any queries, please email: rashmipravamishra@gmail.com
 
